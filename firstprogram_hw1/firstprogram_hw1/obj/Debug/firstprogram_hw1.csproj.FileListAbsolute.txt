@@ -1,0 +1,6 @@
+D:\softintellect\homework\firstprogram_hw1\firstprogram_hw1\bin\Debug\firstprogram_hw1.exe.config
+D:\softintellect\homework\firstprogram_hw1\firstprogram_hw1\bin\Debug\firstprogram_hw1.exe
+D:\softintellect\homework\firstprogram_hw1\firstprogram_hw1\bin\Debug\firstprogram_hw1.pdb
+D:\softintellect\homework\firstprogram_hw1\firstprogram_hw1\obj\Debug\firstprogram_hw1.csprojResolveAssemblyReference.cache
+D:\softintellect\homework\firstprogram_hw1\firstprogram_hw1\obj\Debug\firstprogram_hw1.exe
+D:\softintellect\homework\firstprogram_hw1\firstprogram_hw1\obj\Debug\firstprogram_hw1.pdb
